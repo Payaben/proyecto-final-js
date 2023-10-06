@@ -1,3 +1,14 @@
+Agradecimientos a mi Profesor Ángel Daniel Fuentes Segura
+Querido profesor Ángel Daniel Fuentes Segura,
+
+Quiero expresar mi más sincero agradecimiento por su paciencia y dedicación en la docencia. Su gran vocación y pasión por enseñar se reflejan en la forma en que transmite exitosamente sus conocimientos a sus alumnos. Gracias a usted, he aprendido mucho y me siento inspirado a seguir creciendo académicamente.
+
+Valoraré siempre el tiempo y esfuerzo que ha invertido en mi educación. Su compromiso con sus alumnos es admirable y me siento afortunado de haber tenido la oportunidad de ser parte de su clase. Gracias por ser un modelo a seguir y por motivarme a alcanzar mis metas.
+
+Con gratitud, Pablo Benjamin Guillen
+
+# "Querido profesor Ángel Daniel Fuentes Segura, quiero agradecerle por el tiempo y dedicación que ha puesto en este proyecto. Gracias a su guía y enseñanza, he aprendido mucho y estoy muy contento con el resultado final. ¡Gracias de nuevo por todo!"
+
 # Déjame intentar explicar este proyecto de una manera sencilla:
 
 # El objetivo principal es mostrar una lista de productos y permitir al usuario ver más detalles de un producto específico. Para lograr esto se utilizan varias tecnologías y conceptos de JavaScript:
