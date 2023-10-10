@@ -1,4 +1,4 @@
-Agradecimientos a mi Profesor Ángel Daniel Fuentes Segura <br>
+# Agradecimientos a mi Profesor Ángel Daniel Fuentes Segura <br>
 Querido profesor Ángel Daniel Fuentes Segura,
 
 Quiero expresar mi más sincero agradecimiento por su paciencia y dedicación en la docencia. Su gran vocación y pasión por enseñar se reflejan en la forma en que transmite exitosamente sus conocimientos a sus alumnos. Gracias a usted, he aprendido mucho y me siento inspirado a seguir creciendo académicamente.
